@@ -6,10 +6,10 @@ require 'foodie/version'
 Gem::Specification.new do |spec|
   spec.name          = "foodie"
   spec.version       = Foodie::VERSION
-  spec.authors       = ["TODO: Write your name"]
+  spec.authors       = ["Josh Jore"]
   spec.email         = ["jjore@cpan.org"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{The Foodie gem}
+  spec.summary       = %q{a la https://github.com/radar/guides/blob/master/gem-development.md}
   spec.homepage      = ""
   spec.license       = "MIT"
 
